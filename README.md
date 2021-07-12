@@ -3,6 +3,6 @@
 * Добавить графики
 * Вывести всё в excel
 # Навигация
-DanRush11.ipynb - файл с кодом
-Preds.ipynb - Предсказание цен акций
-price_of_action.png - графики
+* DanRush11.ipynb - файл с кодом
+* Preds.ipynb - Предсказание цен акций
+* price_of_action.png - графики
